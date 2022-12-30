@@ -1,0 +1,8 @@
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\bin\Debug\csharp ile login uygulamasi.exe.config
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\bin\Debug\csharp ile login uygulamasi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\bin\Debug\csharp ile login uygulamasi.pdb
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\obj\Debug\csharp ile login uygulamasi.csproj.AssemblyReference.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\obj\Debug\csharp ile login uygulamasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\obj\Debug\csharp ile login uygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\obj\Debug\csharp ile login uygulamasi.exe
+C:\Users\Okan\Documents\Visual Studio 2022\Github'a atacaklarım\csharp ile login uygulamasi\csharp ile login uygulamasi\obj\Debug\csharp ile login uygulamasi.pdb
